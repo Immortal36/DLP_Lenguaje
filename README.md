@@ -1,6 +1,6 @@
 # Diseño de Lenguajes de Programación (DLP)
 
-## Descripcion del contenido
+## Descripción del contenido
 Desarrollo de las prácticas de laboratorio de la asignatura Diseño de Lenguajes de Programación (DLP) de Ingeniería Informática del Software por la Universidad de Oviedo.
 
 ## Licencia
